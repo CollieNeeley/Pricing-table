@@ -12,7 +12,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for Front End Web Development, and i am now eager to transition into this feild, specifically aiming to join fellow developers in Front-End and grow my knowledge and be apart of something big.
+My journey in computer science has led me to develop a passion for Front End Web Development, and i am now eager to transition into this feild, specifically aiming to join fellow developers in Front-End and grow my knowledge and be a apart of something big.
 
 
 ## Skills
