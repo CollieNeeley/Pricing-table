@@ -23,7 +23,7 @@ Implementing CSS for pricing table      | <a href="https://icodethis.com/modes/d
 
 
 ## Tools 
-in this project showcasing how a simple layout of a pricing table either for a subsciption plan, payment plan, or web site ads that you see everywhere, demonstrates a visually enjoyable outlook over this which is seen everywhere. 
+In this project I showcase a layout of a pricing table either for a subsciption plan, payment plan, or web site ads that you see everywhere, demonstrating a visually enjoyable outlook.
 
 ## Screenshot For Pricing Table  
 
