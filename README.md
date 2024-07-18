@@ -8,7 +8,7 @@
 Breif Introduction
 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. I look forward to expanding my technical and coding abilities vastly beyond myself, by continuosly learning strategies and dedication for organization growth. 
 
 ## Objective
 
@@ -20,7 +20,9 @@ My journey in computer science has led me to develop a passion for Front End Web
 | Skill                                 | Project
 |---------------------------------------|----------------------------------------|
 Implementing CSS for pricing table      | <a href="https://icodethis.com/modes/design-to-code/50/submissions/309652">Pricing Table</a>
-Error page showcasing vast color        | <a href="https://icodethis.com/modes/design-to-code/42/submissions/302113">Error Code</a>
-Wild Side Planning and Execution        | <a href="https://ztsdit.mimo.run/index.html">Wild Side</a>
-Visually and functionally appealing     | <a href="https://icodethis.com/modes/design-to-code/57/submissions/306810">Movie Poster</a>
+
+
+## Tools 
+in this project showcasing how a simple layout of a pricing table either for a subsciption plan, payment plan, or web site ads that you see everywhere, demonstrates a visually enjoyable outlook over this which is seen everywhere. 
+
 
